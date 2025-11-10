@@ -1,0 +1,11 @@
+{
+  "area": {
+    "municipio": "São Paulo"
+  },
+  "alert_threshold": 10,
+  "ssp_xlsx_path": "gps-roubo-bot/dados/ssp_sp_roubo_furto.xlsx",
+  "email": {
+    "enabled": false,
+    "receiver": "destinatario@gmail.com"
+  }
+}
