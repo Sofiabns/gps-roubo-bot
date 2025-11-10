@@ -1,4 +1,4 @@
-# GPS Inteligente de Previsão de Roubos/Furtos - gps-roubo-bot
+# GPS Inteligente de Previsão de Roubos/Furtos - furto-roubo-bot
 
 **Descrição breve:**  
 Monitoramento inteligente de roubos e furtos em uma área específica de São Paulo, integrando dados públicos, análise de proximidade e alertas por e-mail. Ideal para segurança pessoal, logística ou monitoramento urbano.
