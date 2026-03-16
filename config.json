@@ -1,11 +1,19 @@
 {
+  "_comentario": "Configuração do furto-roubo-bot. Veja README.md para detalhes.",
+  "ssp_xlsx_path": "dados/ssp_sp_roubo_furto.xlsx",
   "area": {
-    "municipio": "São Paulo"
+    "municipio": "São Paulo",
+    "center_lat": -23.5505,
+    "center_lon": -46.6333,
+    "radius_km": null
   },
   "alert_threshold": 10,
-  "ssp_xlsx_path": "gps-roubo-bot/dados/ssp_sp_roubo_furto.xlsx",
   "email": {
     "enabled": false,
-    "receiver": "destinatario@gmail.com"
+    "receiver": "destinatario@exemplo.com"
+  },
+  "schedule": {
+    "enabled": false,
+    "interval_hours": 24
   }
 }
